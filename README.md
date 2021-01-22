@@ -8,12 +8,12 @@ Thank you! ;)
 
 <div class="row">
   <div class="column">
-    <img src="TipTimeAppScreenshots/Adaptive%20and%20Legacy%20Vector%20Icon.jpg" alt="Icon for app" width = 500%>
+    <img src="TipTimeAppScreenshots/Adaptive%20and%20Legacy%20Vector%20Icon.jpg" alt="Icon for app" width = 50%>
   </div>
   <div class="column">
     <img src="TipTimeAppScreenshots/Day%20Mode%20with%20Accessibility%20Added.jpg" alt="Time Time App in Day/Light Mode" width=50%>
   </div>
   <div class="column">
-    <img src="TipTimeAppScreenshots/Night%20Theme%20with%20Accesssibilty%20Added.jpg" alt="Time Time App in Night/Dark Mode" width=100%">
+    <img src="TipTimeAppScreenshots/Night%20Theme%20with%20Accesssibilty%20Added.jpg" alt="Time Time App in Night/Dark Mode" width=50%">
   </div>
 </div>
